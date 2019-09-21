@@ -1,4 +1,4 @@
-<img src="docs/img/pybynd.png" width="100">
+<img src="docs/img/pybynd.png" width="200">
 
 ## Python Beyondcoin library
 
